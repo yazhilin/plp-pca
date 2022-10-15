@@ -1,0 +1,23 @@
+{
+  "analysisId": "Analysis_6",
+  "analysisSource": "",
+  "developmentDatabase": "erspc",
+  "attrition": {
+    "outcomeId": [46, 46, 46, 46],
+    "description": ["Original cohorts", "Initial plpData cohort or population", "First Exposure", "Removing subjects with no time at risk (if any))"],
+    "targetCount": [353, 353, 353, 331],
+    "uniquePeople": [353, 353, 353, 331],
+    "outcomes": [234, 199, 199, 199],
+    "attr_class": "data.frame",
+    "attr_row.names": [1, 2, 3, 4]
+  },
+  "trainingTime": "0.130500316619873 secs",
+  "trainingDate": "2022-10-14",
+  "modelName": "logistic",
+  "finalModelParameters": {
+    "variance": 196.6796,
+    "log_likelihood": -165.8344
+  },
+  "hyperParamSearch": [0.4061, 0.5894, 0.5968],
+  "developmentDatabaseId": "erspc"
+}

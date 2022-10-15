@@ -1,0 +1,19 @@
+{
+  "featureEngineering": {
+    "funct": "sameData",
+    "settings": {
+      "none": true
+    }
+  },
+  "tidyCovariates": {
+    "populationSize": 1235,
+    "deletedInfrequentCovariateIds": [],
+    "normFactors": {
+      "covariateId": [1002, 1903, 1904],
+      "maxValue": [85, 1, 2],
+      "attr_class": "data.frame",
+      "attr_row.names": [1, 2, 3]
+    }
+  },
+  "requireDenseMatrix": false
+}
