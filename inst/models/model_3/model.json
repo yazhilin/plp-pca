@@ -1,0 +1,13 @@
+{
+  "priorVariance": 0.2178,
+  "log_likelihood": -156.3909,
+  "modelType": "logistic",
+  "modelStatus": "OK",
+  "coefficients": {
+    "betas": [-0.2916, 0, 0, 0, 0.2253, 0.6863, 0.5468, 0, 0, 0.5919],
+    "covariateIds": ["(Intercept)", "1002", "1903", "1904", "22901111", "23001111", "23101111", "23501111", "23601111", "23701111"],
+    "attr_class": "data.frame",
+    "attr_row.names": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  "attr_class": "plpModel"
+}
