@@ -1,0 +1,11 @@
+"covariateId","covariateName","analysisId","conceptId","covariateValue"
+23001111,"Cohort_covariate during day -365 through 0 days relative to index:  ISUP Grade 2  ",111,-1,1.29079039714932
+23101111,"Cohort_covariate during day -365 through 0 days relative to index:  ISUP Grade 3  ",111,-1,1.28700393684424
+45701111,"Cohort_covariate during day -365 through 0 days relative to index:  PSA 10 to 20  ",111,-1,-0.994376740443536
+45601111,"Cohort_covariate during day -365 through 0 days relative to index:  PSA lower than 10  ",111,-1,-0.919369023770845
+22901111,"Cohort_covariate during day -365 through 0 days relative to index:  ISUP Grade 1  ",111,-1,0.842936616928516
+1904,"CHADS2VASc",904,0,0.0493969058238476
+45801111,"Cohort_covariate during day -365 through 0 days relative to index:  PSA higher than 20  ",111,-1,0.00809629968704457
+1002,"age in years",2,0,0
+1903,"CHADS2",903,0,0
+23301111,"Cohort_covariate during day -365 through 0 days relative to index:  ISUP Grade 5  ",111,-1,0
