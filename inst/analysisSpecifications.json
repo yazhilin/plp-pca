@@ -69,9 +69,9 @@
   "moduleSpecifications": [
     {
       "module": "CohortGeneratorModule",
-      "version": "0.0.10",
+      "version": "0.0.14",
       "remoteRepo": "github.com",
-      "remoteUsername": "anthonysena",
+      "remoteUsername": "ohdsi",
       "settings": {
         "incremental": true,
         "generateStats": true
